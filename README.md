@@ -17,12 +17,19 @@ each floor.
 Input Signals:
 
 CarIn
+
 Floor to park the car
+
 Slot in selected floor
+
 CarOut
+
+
 
 Output Signals:
 
 Status of Floors
+
 Door Locks
+
 Parked Cars
